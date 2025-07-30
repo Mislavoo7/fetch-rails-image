@@ -20,7 +20,6 @@ function! fetch_rails_image#run_fetch_rails_image() abort
 
   let image_path = match[2]
   let image_file = rails_root . '/app/assets/images/' . image_path
-  echo "folder: " . image_file
 
   " Try checking for the image file or with typical extensions
   if filereadable(image_file)
