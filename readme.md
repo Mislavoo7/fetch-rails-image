@@ -7,6 +7,10 @@ A Vim plugin that detects missing Rails image assets and generates them using AI
 ## Demo
 
 
+https://github.com/user-attachments/assets/e65e1489-cf12-43c2-a6e9-8b439c5f3460
+
+
+
 ## Installation
 
 ### Using vim-plug
